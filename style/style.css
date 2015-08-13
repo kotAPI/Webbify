@@ -52,7 +52,6 @@ input{
 	text-align: center;
 	color:#fff;
 	margin: 4px;
-
 	transition: all 0.3s ease-in 0.1s;
 }
 
@@ -66,8 +65,7 @@ input:focus{
 	border: 4px;
 	text-decoration: none;
 	color: white;
-
-	transform: scale(1.1, 1.1);
+	transform: scale(1.125, 1.125);
 	background: rgba(0,255,0,0.4);
 
 }
